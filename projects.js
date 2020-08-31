@@ -3,6 +3,14 @@ const projectsList = document.getElementById("projects-list")
 
 const projects = [
     {
+        url: "https://github.com/voidJuneau/grateful",
+        img: "https://raw.githubusercontent.com/voidJuneau/grateful/master/screenshot.png",
+        title: "Greatful",
+        detail: "A full stack web application with NoSQL DB to help mental problem." +
+         "<br>node.js, Express.js, MongoDB, React.js"
+    },
+    
+    {
         url: "https://play.google.com/store/apps/details?id=im.juneau.discretemathformulas",
         img: "https://raw.githubusercontent.com/ljuneaul/DiscreteMathFormulas/master/screenshot.png",
         title: "Discrete Math & Statistics Formulas",
