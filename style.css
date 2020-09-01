@@ -8,6 +8,7 @@ body {
 
 p {
     color: #6272a4;
+    white-space: pre-wrap;
 }
 #welcome-section {
     padding: 40vh 0;
